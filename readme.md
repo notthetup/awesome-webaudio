@@ -16,6 +16,10 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish](https://github.com/charlieroberts/Gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 
+### Libraries
+- [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
+- [TuneJS](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
+
 ### Utilities
 - [smoothfade](https://github.com/notthetup/smoothfade) - A utility for smoothly fading between two AudioNodes.
 

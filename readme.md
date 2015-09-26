@@ -8,6 +8,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) to add an awesome WebAudio thing to this list.
 
 ## Packages
 

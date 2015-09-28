@@ -25,7 +25,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [smoothfade](https://github.com/notthetup/smoothfade) - A utility for smoothly fading between two AudioNodes.
 
 ### Utilities
-- [resampler](https://github.com/notthetup/resampler) - A utility resampling audio.
+- [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

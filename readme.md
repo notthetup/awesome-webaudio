@@ -15,14 +15,17 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Frameworks
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish](https://github.com/charlieroberts/Gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+- [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. 
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
 - [TuneJS](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
 - [Beet.js](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
+- [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
+- [smoothfade](https://github.com/notthetup/smoothfade) - A utility for smoothly fading between two AudioNodes.
 
 ### Utilities
-- [smoothfade](https://github.com/notthetup/smoothfade) - A utility for smoothly fading between two AudioNodes.
+- [resampler](https://github.com/notthetup/resampler) - A utility resampling audio.
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

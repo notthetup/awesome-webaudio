@@ -41,3 +41,10 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Books
 - [Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552/index.html) - A book that brings the reader through the basics of WebAudio.
+- 
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Chinmay Pendharkar](http://chinpen.net/) has waived all copyright and related or neighboring rights to this work.

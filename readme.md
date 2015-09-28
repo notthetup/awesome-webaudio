@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/webaudio/webaudio-js.png" width="200px" alt="WebAudio">
 
-> A curated list of awesome WebAudio [packages](#packages) and [demos](#demos).
+> A curated list of awesome [WebAudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) [packages](#packages) and [demos](#demos).
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 

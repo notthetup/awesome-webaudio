@@ -15,7 +15,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Frameworks
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish](https://github.com/charlieroberts/Gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-- [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance. 
+- [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
@@ -26,6 +26,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
+- [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

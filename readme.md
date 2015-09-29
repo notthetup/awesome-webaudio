@@ -16,6 +16,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish](https://github.com/charlieroberts/Gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
+- [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
@@ -35,7 +36,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 
 ## Demos
-- [Popcorn](http://molgav.nn.ru/babylonsynth/) - interactive Popcorn by Babylon.js and WebAudio.
+- [Popcorn](http://molgav.nn.ru/babylonsynth/) - interactive Popcorn by Babylon.js and SSSynthesiser.js.
 
 ## Resources
 

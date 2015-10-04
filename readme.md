@@ -27,6 +27,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
+- [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

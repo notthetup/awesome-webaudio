@@ -23,6 +23,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Beet.js](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 - [smoothfade](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
+- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI
 
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.

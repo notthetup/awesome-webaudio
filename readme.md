@@ -23,12 +23,13 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Beet.js](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - A QWERTY keyboard for web audio projects.
 - [smoothfade](https://github.com/notthetup/smoothfade) - A library for smoothly fading between two AudioNodes.
-- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI
+- [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) - A Web Audio test library for CI.
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
-- [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API
+- [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

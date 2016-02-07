@@ -30,6 +30,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) - JavaScript/Web Audio implementation of Karplus-Strong guitar synthesis.
 - [XSound.js](https://github.com/Korilakkuma/XSound) - Full stack library.
 - [osc-msg](https://github.com/mohayonao/osc-msg) - OSC message decoder/encoder with fault tolerance.
+- [Meyda](https://github.com/hughrawlinson/meyda) - Audio feature extraction library including a variety of widely used audio features.
 
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.

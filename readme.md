@@ -57,6 +57,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Books
 - [Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552/index.html) - A book that brings the reader through the basics of WebAudio.
 
+### Newsletters
+- [Web Audio Weekly Newsletter](http://blog.chrislowis.co.uk/waw.html) - A weekly review of what's happening in Web Audio
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

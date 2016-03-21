@@ -33,6 +33,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Meyda](https://github.com/hughrawlinson/meyda) - Audio feature extraction library including a variety of widely used audio features.
 - [Pizzicato](https://github.com/alemangui/pizzicato) - A library that aims to simplify the creation and manipulation sounds in the browser.
 - [Mooog](https://github.com/mattlima/mooog) - Tools that simplify working with AudioNodes, inspired by jQuery and mixing tables.
+- [Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Interactive navigable audio visualization using Web Audio and Canvas.
 
 ### Utilities
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.

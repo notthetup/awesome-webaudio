@@ -62,7 +62,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Tutorials
 - [WebAudio School](https://github.com/mmckegg/web-audio-school	) - A series of self-guided workshops to learn WebAudio.
-- [The Web Audio API: What Is It?](http://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
+- [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](Web Audio API performance and debugging ) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
@@ -80,4 +80,4 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Chinmay Pendharkar](https://chinpen.net/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.

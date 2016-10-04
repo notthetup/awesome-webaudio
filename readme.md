@@ -18,6 +18,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
+- [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
 
 ### Libraries
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.

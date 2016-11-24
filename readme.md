@@ -58,6 +58,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 - [mod-synth.io](https://github.com/LowwwLtd/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
+- [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 
 ## Resources
 

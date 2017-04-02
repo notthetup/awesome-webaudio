@@ -10,6 +10,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) to add an awesome WebAudio thing to this list.
 
+## Contents
+- [Packages](#packages)
+  - [Frameworks](#frameworks)
+  - [Libraries](#libraries)
+  - [Utilities](#utilities)
+  - [MIDI](#midi)
+  - [Apps](#apps)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Newsletters](#newsletters)
+  - [Community](#community)
+
 ## Packages
 
 ### Frameworks

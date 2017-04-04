@@ -60,6 +60,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
+- [Audion](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

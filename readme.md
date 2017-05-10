@@ -74,6 +74,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 - [mod-synth.io](https://github.com/LowwwLtd/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
 - [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
+- [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 
 ## Resources
 

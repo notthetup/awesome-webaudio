@@ -77,6 +77,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
 - [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 - [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
+- [BangerFM](https://banger.fm) - Realtime multiplayer beat production in the browser.
 
 ## Resources
 

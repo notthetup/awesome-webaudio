@@ -27,7 +27,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
-- [Gibberish](https://github.com/charlieroberts/Gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+- [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 - [lissajous](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
@@ -74,7 +74,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
-- [mod-synth.io](https://github.com/LowwwLtd/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
+- [mod-synth.io](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
 - [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 - [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
 

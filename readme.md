@@ -1,4 +1,4 @@
-# Awesome WebAudio
+﻿# Awesome WebAudio
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -70,6 +70,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) -  handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
+- [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
+- [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 
 ### Apps
 - [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.

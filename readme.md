@@ -67,6 +67,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 
 ### MIDI
+- [Web MIDI API for Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-midi-api/) - Firefox Add-on.
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) -  handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.

@@ -35,6 +35,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web.
 
 ### Libraries
+- [Howler.js](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
+- [Wad.js](https://github.com/rserota/wad) - A library for manipulating audio.
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
 - [TuneJS](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
 - [Beet.js](https://github.com/zya/beet.js) - A sequencer library for creating euclidean rhythms and polyrhythms.
@@ -94,10 +96,13 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [The Web Audio API: What Is It?](https://code.tutsplus.com/tutorials/the-web-audio-api-what-is-it--cms-23735) - Intro to WebAudio.
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
+- [Web Audio Samples](https://webaudioapi.com/samples/) - A collection of samples referenced in Boris Smus's introductory book [Web Audio API](#books).
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 
 ### Books
 - [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
+- [Web Audio API](https://webaudioapi.com/book/) - A free introductory book to the Web Audio API by Boris Smus, geared towards sound for games and interactive apps.
+
 ### Newsletters
 - [Web Audio Weekly Newsletter](http://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 

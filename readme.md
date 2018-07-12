@@ -99,6 +99,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Books
 - [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
+- [Web Audio API](https://webaudioapi.com/book/) - Intended to be a springboard for web developers with little to no digital audio expertise. Geared towards game audio and interactive apps.
+
 ### Newsletters
 - [Web Audio Weekly Newsletter](http://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 

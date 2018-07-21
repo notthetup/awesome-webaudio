@@ -104,7 +104,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Web Audio API](https://webaudioapi.com/book/) - Intended to be a springboard for web developers with little to no digital audio expertise. Geared towards game audio and interactive apps.
 
 ### Newsletters
-- [Web Audio Weekly Newsletter](http://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
+- [Web Audio Weekly Newsletter](https://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 
 ### Community
 - [Slack](https://web-audio-slackin.herokuapp.com/) - A Slack for discussing Web Audio.

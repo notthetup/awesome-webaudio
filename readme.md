@@ -67,6 +67,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 - [Audion](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
+- [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.

@@ -100,13 +100,12 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ## Obsolete
 
-Projects without activity since january 2019 or officially dead.
+Projects without activity since January 2019 or officially dead.
 
 - [Gibberish](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 - [lissajous](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance.
 - [SSSynthesiser.js](https://github.com/surikov/SSSynthesiser.js) - A wavetable synthesizer for interactive music and sound effects.
 - [WAAX](https://github.com/hoch/WAAX/) - Build Music Apps for browsers.
-
 - [Band.js](https://github.com/meenie/band.js/) An interface for the Web Audio API that supports rhythms, multiple instruments, repeating sections, and complex time signatures.
 - [reverbGen](https://github.com/adelespinasse/reverbGen) - A JavaScript library for generating artificial reverb impulse responses.
 - [TuneJS](https://github.com/abbernie/tune) - A tuning library of microtonal and just intonation scales. Supports over 3,000 historical tunings.
@@ -123,15 +122,12 @@ Projects without activity since january 2019 or officially dead.
 - [audiolet](https://github.com/oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
-
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
 - [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
-
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
-
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
 
 ## License

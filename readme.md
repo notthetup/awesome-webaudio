@@ -73,6 +73,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
 - [SoundCycle](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.
+- [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.
+- [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound)
 
 ## Resources
 
@@ -129,6 +131,7 @@ Projects without activity since January 2019 or officially dead.
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
+- [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations)
 
 ## License
 

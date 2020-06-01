@@ -131,7 +131,7 @@ Projects without activity since January 2019 or officially dead.
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 - [Code Player](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
-- [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations)
+- [Web Audio Modules](https://www.webaudiomodules.org/) - synthesizers and audio effects processors for web browsers (both API and implementations).
 
 ## License
 

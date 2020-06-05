@@ -75,7 +75,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.
 - [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.
 - [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound).
-- [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam
+- [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 
 ## Resources
 

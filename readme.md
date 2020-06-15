@@ -31,7 +31,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 - [Tone.js](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Bap](https://github.com/adamrenklint/bap) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
-- [Omnitone](https://github.com/GoogleChrome/omnitone) - Spatial audio on the web.
+- [Omnitone](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
+- [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 
 ### Libraries
 

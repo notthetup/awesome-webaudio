@@ -48,7 +48,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Howler.js](https://github.com/goldfire/howler.js) - A comprehensive library with a fallback to HTML5 Audio.
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 - [Wad](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
-- [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - An extension that adds Web Audio functionality to the creative coding library [p5.js](https://p5js.org/)
+- [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - An extension that adds Web Audio functionality to the creative coding library [p5.js](https://p5js.org/).
 
 ### Utilities
 

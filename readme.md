@@ -49,6 +49,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts.
 - [Wad](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 - [p5.sound](https://p5js.org/reference/#/libraries/p5.sound) - An extension that adds Web Audio functionality to the creative coding library [p5.js](https://p5js.org/).
+- [@magenta/music](https://github.com/magenta/magenta-js/tree/master/music) - A JavaScript library to use machine learning models and generate music in the browser by having some neat abstractions over the Webaudio API.
 
 ### Utilities
 

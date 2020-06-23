@@ -80,6 +80,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.
 - [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 - [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
+- [Web Audio Metronome](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 
 ## Resources
 

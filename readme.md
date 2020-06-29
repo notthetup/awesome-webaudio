@@ -92,6 +92,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Web Audio Basics](https://github.com/kylestetz/Web-Audio-Basics) - A growing set of light code samples with CodePen links for each.
 - [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
+- [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 
 ### Books
 

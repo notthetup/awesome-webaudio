@@ -81,6 +81,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Csound IDE](https://ide.csound.com/) - web IDE for [CSound programming language](https://en.wikipedia.org/wiki/Csound).
 - [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 - [Web Audio Metronome](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
+- [EarSketch](https://earsketch.gatech.edu/landing/#/) - free educational programming environment to teach Python and Javascript through music composing and remixing
 
 ## Resources
 

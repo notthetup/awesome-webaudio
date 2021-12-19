@@ -62,6 +62,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 - [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+- [WEBMIDI.js](https://webmidijs.org/) - The Web MIDI API made easy.
 
 ### Apps
 

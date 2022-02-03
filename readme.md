@@ -85,6 +85,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Web Audio Metronome](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 - [EarSketch](https://earsketch.gatech.edu/landing/#/) - free educational programming environment to teach Python and Javascript through music composing and remixing
 - [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+- [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
+
+
 
 ## Resources
 

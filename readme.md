@@ -86,7 +86,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [EarSketch](https://earsketch.gatech.edu/landing/#/) - free educational programming environment to teach Python and Javascript through music composing and remixing
 - [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
 - [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
-- [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio. 
+- [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
 
 
 
@@ -114,6 +114,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Community
 
 - [Slack](https://web-audio-slackin.herokuapp.com/) - A Slack for discussing Web Audio.
+- [Web Audio Conference](https://webaudioconf.com/) - International conference dedicated to web audio technologies and applications.
 
 ## Obsolete
 

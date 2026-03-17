@@ -64,6 +64,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 - [Audion](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
 - [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) - A UI for generating Web Audio code.
+- [Web Audio Studio](https://app.webaudio.studio) - A real-time visualizer for Web Audio API graphs generated from code.
 
 ### MIDI
 

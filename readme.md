@@ -1,4 +1,5 @@
-﻿# Awesome WebAudio
+ï»¿# Awesome WebAudio
+- [Remove Audio](https://remove-audio.com) - Free browser tool to strip audio from video files. Processes locally via WebAssembly + FFmpeg.wasm. No uploads, no account. Batch up to 20 clips.
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
@@ -33,7 +34,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Bap](https://github.com/adamrenklint/bap) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [Omnitone](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
 - [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
-- [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
+- [Elementary](https://www.elementary.audio/) âÂ Declarative, functional framework for writing audio software on the web or for native apps
 - [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
 
 ### Libraries
@@ -100,9 +101,9 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Online Sequencer](https://onlinesequencer.net) - A simple and easy-to-use sequencer with plenty of functionality, based around the Web Audio API.
 - [Binary Synth](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
 - [dsssp-demo](https://github.com/NumberOneBot/dsssp-demo) - WebAudio music player with 7-bands EQ and filter presets.
-- [SingMeter](https://www.singmeter.com/) – A collection of browser-based singing tools including a pitch detector and vocal range test.
-- [Drumhaus](https://drumha.us/) – a browser-based drum machine with step sequencing, pattern variations, and groove editing.
-- [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
+- [SingMeter](https://www.singmeter.com/) â A collection of browser-based singing tools including a pitch detector and vocal range test.
+- [Drumhaus](https://drumha.us/) â a browser-based drum machine with step sequencing, pattern variations, and groove editing.
+- [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) â Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 
 ## Resources
@@ -157,7 +158,7 @@ Projects without activity since January 2019 or officially dead.
 - [playnote](https://github.com/createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 - [Recorderjs](https://github.com/mattdiamond/Recorderjs) - A plugin for recording/exporting the output of Web Audio API nodes.
 - [resampler](https://github.com/notthetup/resampler) - A utility for resampling audio.
-- [bpm-detective](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
+- [bpm-detective](https://github.com/tornqvist/bpm-detective) â Detects the BPM of a song or audio sample.
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 - [midi-ports](https://github.com/AndrejHronco/midi-ports) - handy library to make it easier to work with attached MIDI devices.

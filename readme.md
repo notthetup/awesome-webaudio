@@ -1,4 +1,4 @@
-﻿# Awesome WebAudio
+# Awesome WebAudio
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
@@ -9,6 +9,7 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) to add an awesome WebAudio thing to this list.
+- [Remove Audio](https://remove-audio.com) - Free browser tool to strip audio from video files. Processes locally via WebAssembly + FFmpeg.wasm. No uploads, no account. Batch up to 20 clips.
 
 ## Contents
 

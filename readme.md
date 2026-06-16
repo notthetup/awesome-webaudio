@@ -106,6 +106,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
+- [Maurisson Music Hub](https://musichub.maurisson.com) - A musician's web workbook built on Web Audio/Web MIDI: playable piano and guitar with every scale lit by key, a harmonica hub, and a MIDI studio with real-time chord detection from a USB keyboard, plus a 2,300-song chord book with per-chord scale suggestions.
 
 ## Resources
 

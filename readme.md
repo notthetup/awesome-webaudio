@@ -107,6 +107,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 
+- [Vuko](https://www.vuko.life) - Binaural beats web app that adapts the beats to your breathing in real time via the microphone (Web Audio API). Free, open source, runs entirely in the browser.
+
 ## Resources
 
 ### Tutorials

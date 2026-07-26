@@ -107,6 +107,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 
+- [Reverse Audio Tool](https://reverseaudiotool.com/) - Reverse audio entirely in the browser. No upload, no signup — files stay on-device. Export reversed audio as WAV.
 ## Resources
 
 ### Tutorials

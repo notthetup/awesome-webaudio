@@ -106,6 +106,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
+- [Morse Code Audio Generator](https://alltoolsverse.com/tools/morse-code-audio-generator/) - Generates Morse code audio from text with adjustable speed and tone, plus WAV export.
 
 ## Resources
 

@@ -107,6 +107,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 
+- [AudioCraft](https://audiocraft.app/) - Browser-based AI stem splitter with a synchronized Web Audio mixer for vocals, drums, bass, and other instruments.
+
 ## Resources
 
 ### Tutorials

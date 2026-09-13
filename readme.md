@@ -60,6 +60,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [dsssp](https://github.com/NumberOneBot/dsssp) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
 - [tuning-fork](https://github.com/v-rusu/tuning-fork) - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
 
+- [Browser Music Analysis Kit](https://github.com/j022315051/browser-music-analysis-kit) - Dependency-free pitch, key, Camelot, and chord analysis helpers for browser audio projects.
+
 ### Utilities
 
 - [Audion](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.

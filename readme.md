@@ -107,6 +107,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 
+- [MP3 to MIDI Browser](https://mp3tonotes.com/audio-to-midi) - Browser-only audio-to-MIDI converter that accepts one local audio file and exports a standard MIDI file.
+
 ## Resources
 
 ### Tutorials

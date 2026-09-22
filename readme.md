@@ -72,6 +72,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
 - [WEBMIDI.js](https://webmidijs.org/) - The Web MIDI API made easy.
+- [audio-to-midi-engine](https://github.com/x15987856/audio-to-midi-engine) - Zero-dependency YIN pitch tracking and Standard MIDI File writing, for turning audio into MIDI in the browser.
 
 ### Apps
 

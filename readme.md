@@ -59,6 +59,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [wave-audio-path-player](https://github.com/jerosoler/wave-audio-path-player) - Simple audio player webcomponent customizable with waveform.
 - [dsssp](https://github.com/NumberOneBot/dsssp) - React component library for visualizing and managing audio filters with drag-n-drop and transitions support.
 - [tuning-fork](https://github.com/v-rusu/tuning-fork) - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
+- [eko-web](https://github.com/reactivepixels/eko-web) - Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.
 
 ### Utilities
 

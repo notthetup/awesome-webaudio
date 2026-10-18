@@ -85,6 +85,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Super Oscillator](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
 - [AudioNodes](https://audionodes.com) - Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.
 - [waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Project inspired by Audacity.
+- [ToneTool](https://tonetool.org/) - Online tone generator (1Hz–20kHz, sine/square/triangle/sawtooth) built on the Web Audio API.
 - [SoundCycle](https://github.com/scriptify/soundcycle) - A Web Audio based Loopstation for musicians with effects and different looping modes.
 - [DSP.audio Worklet Editor](https://dsp.audio/editor/) - Online Audio Worklet editor for sketching and collaboration, with sampler, MIDI and analyzers. Like a JSFiddle, but for DSP.
 - [AudioMass](https://audiomass.co/) - free, open source, web-based Audio and Waveform Editor.

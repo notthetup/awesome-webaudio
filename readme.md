@@ -119,6 +119,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Percussion Synthesis Using Web Audio](https://github.com/irritant/WAC-2016-Tutorial) - This tutorial will introduce the basics of web audio programming by writing code to synthesize simple percussion sounds (from WAC2016).
 - [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 - [audio-katas](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
+- [Feedback Studies](https://github.com/flreey/sfxmint-feedback-studies) - Runnable Web Audio and React examples covering first-interaction playback, decoded-buffer reuse, mute races, voice limits, and cleanup.
 
 ### Books
 

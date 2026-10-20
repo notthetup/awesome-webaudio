@@ -106,6 +106,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [synflow](https://synflow.org) [Github](https://github.com/k1ln/synflow) - a browser based modular synth flow engine. With all Web Audio API nodes and more with Worklets (like Vocoder, Reverb, etc. ). With sophisticated Flow automation.
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
+- [LUFS Meter](https://www.markstudios.com/tools/lufs-meter) - Free browser loudness meter that decodes a video or audio file with OfflineAudioContext and measures integrated loudness (ITU-R BS.1770), true peak and loudness range, then shows how YouTube, Spotify and Apple Podcasts will adjust it. Runs client-side; nothing is uploaded.
 
 ## Resources
 

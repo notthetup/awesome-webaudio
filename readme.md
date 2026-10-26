@@ -114,6 +114,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Key Kalimba](https://keykalimba.netlify.app/) [Github](https://github.com/jonashuberts/KeyKalimba) - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.
 - [Melody Mate](https://melody-mate-khaki.vercel.app/) - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.
 - [Ocarina Simulator](https://github.com/zengm32343/ocarina-simulator) - A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. [Live demo](https://ootguide.com/ocarina/).
+- [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
 
 ## Resources
 

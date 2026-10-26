@@ -111,6 +111,8 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 - [Database Inside a Song](https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html) - Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.
 
+- [NOODLERACK](https://noodlerack.com/) - Free browser modular synthesizer with patch cables, sequencers, effects, factory patches, and a synthesis field manual. Uses Web Audio, AudioWorklet, and WebAssembly sound engines.
+
 ## Resources
 
 ### Tutorials

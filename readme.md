@@ -110,6 +110,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Tonalux](https://tonalux.org) - Free browser-based audio analysis suite with real-time spectrum analyzer, LUFS loudness metering (EBU R128), A/B reference comparison and stereo correlation. Built with Web Audio API and WebAssembly, runs entirely client-side.
 - [mdrone](https://mdrone.org) - Microtonal drone instrument that runs in your browser. 
 - [Database Inside a Song](https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html) - Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.
+- [Tonecrafted Progressions](https://tonecrafted.com) - Free browser chord-progression player and ear-training tool for guitarists, no signup.
 
 ## Resources
 

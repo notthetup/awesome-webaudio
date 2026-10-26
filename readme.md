@@ -35,6 +35,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
 - [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
 - [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
+- [Soundworks](https://soundworks.dev/) - Open-source creative coding framework for distributed applications based on Web technologies.
 
 ### Libraries
 

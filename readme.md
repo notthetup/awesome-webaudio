@@ -79,6 +79,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Apps
 
+- [SolveMyMedia](https://solvemymedia.com) - 100% private in-browser video & audio processing suite (audio compressor, converter, extractor, Whisper AI transcription) running via WebAudio & WebAssembly.
 - [BassoonTracker](https://github.com/steffest/BassoonTracker) - MOD/XM Tracker in Javascript.
 - [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 - [X Sound](https://xsound.app/) - Multi Sound Application that uses XSound.js.

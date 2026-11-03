@@ -118,6 +118,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
 - [psoup noise machine](https://psoup.art/machine/?utm_source=awesomewebaudio) - Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.
 - [seance](https://hexenwerkzeug.com/tools/seance) - Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.
+- [Burncaps LUFS Checker](https://burncaps.app/lufs-checker?utm_source=awesomewebaudio) - Free in-browser loudness meter for video and audio files up to ten minutes: decodes the sound with the Web Audio API, measures integrated loudness in JavaScript following ITU-R BS.1770 and compares it with the levels Spotify, Apple Podcasts and EBU R 128 publish. The file is never uploaded.
 
 ## Resources
 

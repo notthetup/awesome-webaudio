@@ -118,6 +118,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
 - [psoup noise machine](https://psoup.art/machine/?utm_source=awesomewebaudio) - Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.
 - [seance](https://hexenwerkzeug.com/tools/seance) - Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.
+- [Tonecap](https://stanczykwyatt.github.io/tonecap/) [Github](https://github.com/stanczykwyatt/tonecap) - Mechanical keyboard sound designer that synthesizes every sound in Web Audio, with no recordings: presets, A/B comparison, WAV export and shareable links.
 
 ## Resources
 

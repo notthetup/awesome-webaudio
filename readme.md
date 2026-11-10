@@ -113,6 +113,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Database Inside a Song](https://blog.jasonsuhari.com/research/database-song/webaudio-demo.html) - Splits a stereo WAV, reconstructs its side channel, and visualizes the 18 kHz and 20 kHz carriers holding a byte-exact SQLite database.
 - [Tonecrafted Progressions](https://tonecrafted.com) - Free browser chord-progression player and ear-training tool for guitarists, no signup.
 - [Key Kalimba](https://keykalimba.netlify.app/) [Github](https://github.com/jonashuberts/KeyKalimba) - Interactive 17-key Kalimba trainer, falling notes visualizer, and real-time tuner with pitch detection.
+- [MakeItMidi](https://makeitmidi.com/) - Browser-based MP3/WAV/voice-to-MIDI converter that runs entirely on the user's device using the Web Audio API for playback and pitch detection (no upload, no login).
 - [Melody Mate](https://melody-mate-khaki.vercel.app/) - In-browser generative MIDI workstation and melodic sketchpad using rule-based music theory heuristics and Web Audio API.
 - [Ocarina Simulator](https://github.com/zengm32343/ocarina-simulator) - A playable 3D ocarina with sampled and synthesized voices, breath-controlled dynamics from the microphone and song recognition. [Live demo](https://ootguide.com/ocarina/).
 - [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.

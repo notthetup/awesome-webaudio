@@ -185,3 +185,4 @@ Projects without activity since January 2019 or officially dead.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.
+- [mech-switch-synth](https://github.com/techkayacodes/mech-switch-synth) - Zero-dependency procedural Web Audio synthesizer for mechanical keyboard switches (`thock`, `clack`, `clicky`, `creamy`, `holy-panda`).

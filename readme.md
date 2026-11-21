@@ -62,6 +62,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [tuning-fork](https://github.com/v-rusu/tuning-fork) - A configurable client-side JavaScript library for guitar tuning with real-time pitch detection.
 - [eko-web](https://github.com/reactivepixels/eko-web) - Web Audio playback engine for music players with gapless playback, crossfade, loudness normalization and React and Vue bindings.
 - [Bardkit](https://github.com/darkdarkcocoa/bardkit) - A sample-free plucked-string instrument for multiplayer games, with a four-voice pool and per-listener distance gain.
+- [lumea-typing-sounds](https://github.com/hisaowo0222-prog/lumea-typing-sounds) - Keyboard typing sounds that pan and shift pitch by key position, with two recorded CC0 sample packs and a synthesized style.
 
 ### Utilities
 

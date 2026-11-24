@@ -132,6 +132,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Browser Noise: Web Audio Tutorials](https://www.youtube.com/playlist?list=PLLgJJsrdwhPywJe2TmMzYNKHdIZ3PASbr) - Playlist of video tutorials by Dan Tramte, hosted on the Audio Programmer YouTube channel.
 - [audio-katas](https://github.com/survivejs/audio-katas) - A collection of self-guided katas during which you will build a DAW of your own while getting exposed to the key Web Audio APIs.
 - [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) - Music theory derived from scratch in JavaScript, with runnable Web Audio examples.
+- [endless-loop-music](https://github.com/JonasJoe233/endless-loop-music) - How Balatro keeps a short loop from sounding like a loop, rebuilt in Web Audio from the game's source, with a pointer pitch-bend demo and a zero-dependency module. [Live demo](https://jonasjoe233.github.io/endless-loop-music/demos/balatro.html).
 
 ### Books
 

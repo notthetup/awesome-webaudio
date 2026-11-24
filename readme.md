@@ -118,6 +118,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Klaviero](https://klaviero.com/) - Falling-notes piano game for MIDI keyboards, built on Web MIDI and Web Audio (Tone.js), with in-browser audio to MIDI.
 - [psoup noise machine](https://psoup.art/machine/?utm_source=awesomewebaudio) - Free generative noise machine in the browser: brown, pink and white noise computed live with the Web Audio API, tuned by the moon and the day's earthquakes.
 - [seance](https://hexenwerkzeug.com/tools/seance) - Sample workbench on the Web Audio API: spectrogram, drum stem separation, hit-based slicing and BS.1770-4 loudness, all in the browser.
+- [Guitaroke](https://guitaroke.app/) - Guitar amp simulator, pedalboard and tuner in a browser tab, with cabinet impulse responses loaded from WAV. Takes the guitar out of a song so you can play along.
 
 ## Resources
 

@@ -36,6 +36,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
 - [React Native Audio API](https://github.com/software-mansion-labs/react-native-audio-api) - Web Audio API implementation for native apps based on react-native.
 - [Soundworks](https://soundworks.dev/) - Open-source creative coding framework for distributed applications based on Web technologies.
+- [Yuby](https://github.com/gaborszanto/yubysdk) - A low-latency audio engine with a WebAssembly build: player, effects, time stretching, pitch shifting, and real-time stem separation in the browser.
 
 ### Libraries
 
